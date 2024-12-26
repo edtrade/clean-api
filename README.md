@@ -46,3 +46,23 @@ Create our first controller
 ```sh
 $ touch infrastructure/api/controllers/book.controller.ts
 ```
+
+### Create first DTO
+
+Install depedencies
+
+```sh
+$ npm i zod
+```
+
+Create a dto folder inside infrastructure/api/controllers
+
+```sh
+$ mkdir infrastructure/api/controllers/dto
+```
+
+Create our first dto
+
+```sh
+$ touch infrastructure/api/controllers/dto/book.dto.ts
+```
