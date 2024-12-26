@@ -66,3 +66,11 @@ Create our first dto
 ```sh
 $ touch infrastructure/api/controllers/dto/book.dto.ts
 ```
+
+### Create first Encoder/Decoder
+
+Create our first codec
+
+```sh
+$ touch infrastructure/api/controllers/book.codec.ts
+```
