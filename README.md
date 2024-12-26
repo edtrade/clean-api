@@ -26,3 +26,23 @@ $ npm i -D prettier typescript
 ```sh
 $ npm i -D nodemon
 ```
+
+### Create first controller
+
+Install depedencies
+
+```sh
+$ npm i tsoa reflect-metadata
+```
+
+Create a controller folder inside infrastructure/api
+
+```sh
+$ mkdir infrastructure/api/controllers
+```
+
+Create our first controller
+
+```sh
+$ touch infrastructure/api/controllers/book.controller.ts
+```
